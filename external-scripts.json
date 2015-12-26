@@ -1,0 +1,19 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-azure-scripts/brain/storage-blob-brain",
+  "hubot-rules",
+  "hubot-plusplus",
+  "hubot-business-cat",
+  "hubot-standup-alarm",
+  "hubot-youtube",
+  "hubot-mute",
+  "hubot-seen",
+  "hubot-fliptable",
+  "hubot-calculator",
+  "hubot-dogeme",
+  "hubot-shipit"
+]

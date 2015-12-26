@@ -1,0 +1,10 @@
+bot:
+  build: .
+  restart: always
+
+  environment:
+    - HUBOT_SLACK_TOKEN
+    - HUBOT_BRAIN_AZURE_STORAGE_ACCESS_KEY
+    - HUBOT_YOUTUBE_API_KEY
+    - HUBOT_WOLFRAM_APPID
+    - HUBOT_DARK_SKY_API_KEY
