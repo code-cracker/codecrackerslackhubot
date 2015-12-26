@@ -1,4 +1,9 @@
 [
+  "github-commit-link.coffee",
+  "github-commiters.coffee",
+  "github-issue-link.coffee",
+  "github-issues.coffee",
+  "github-pulls.coffee",
   "darksky.coffee",
   "pomodoro.coffee",
   "remind.coffee",

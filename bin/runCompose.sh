@@ -6,6 +6,7 @@
 #export HUBOT_YOUTUBE_API_KEY=
 #export HUBOT_WOLFRAM_APPID=
 #export HUBOT_DARK_SKY_API_KEY=
+#export HUBOT_GITHUB_TOKEN=
 
 #daemonized
 docker-compose up -d
